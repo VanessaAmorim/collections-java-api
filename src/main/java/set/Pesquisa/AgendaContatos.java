@@ -47,10 +47,10 @@ public class AgendaContatos {
 
         agendaContatos.exibirContato();
 
-        agendaContatos.adicionarContato("Vanessa", 123456);
-        agendaContatos.adicionarContato("Vanessa", 0);
-        agendaContatos.adicionarContato("Vanessa Buonamici", 111111);
-        agendaContatos.adicionarContato("Vanessa Castro", 789101);
+        agendaContatos.adicionarContato("Ema", 123456);
+        agendaContatos.adicionarContato("Ema", 0);
+        agendaContatos.adicionarContato("Ema Buonamici", 111111);
+        agendaContatos.adicionarContato("Ema Castro", 789101);
         agendaContatos.adicionarContato("Maria josé", 111111);
 
 

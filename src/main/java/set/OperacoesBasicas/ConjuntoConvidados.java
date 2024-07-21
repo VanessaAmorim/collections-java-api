@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class ConjuntoConvidados {
 
-    //atributo
+    //atributos
     private Set<Convidado> convidadoSet;
 
     public ConjuntoConvidados(){
@@ -42,7 +42,7 @@ public class ConjuntoConvidados {
         conjuntoConvidados.adicionarConvidado("Convidado 1", 1234);
         conjuntoConvidados.adicionarConvidado("Convidado 2", 4567);
         conjuntoConvidados.adicionarConvidado("Convidado 3", 1234);
-        conjuntoConvidados.adicionarConvidado("Convidado 4", 1112);
+        conjuntoConvidados.adicionarConvidado("Convidado 4", 1113);
 
        System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " convidado(s) dentro do Set de Convidados" );
 
